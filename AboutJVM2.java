@@ -1,8 +1,9 @@
 package thirdprgm;
-
-public class AboutJVM2 {
-
-	public static void main(String[] args) {
+public class AboutJVM
+	{
+	public static void main(String[] args)
+		{
+		/*----------Information About JVM-----------*/
 		System.out.println("JVM stands for Java Virtual Machine");
 		System.out.println("The JVM is an integaral part of the Java programmind Language");
 		System.out.println("JVM enables a computer torun java programs providing a runtime environment");
@@ -19,9 +20,5 @@ public class AboutJVM2 {
 		System.out.println("Thread management:JVM manages application threads,allowing for concurrent execution");
 		System.out.println("Java SE,EE and ME:Defferent versions of JVM cater to standard,enterprise and mobile environment");
 		System.out.println("Exception Handling:Provides mechanasims to handle runtime errors and exceptions");
-
-		// TODO Auto-generated method stub
-
 	}
-
 }
