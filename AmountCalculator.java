@@ -1,6 +1,5 @@
 package SimpleInterest;
 import java.util.Scanner;
-
 public class AmountCalculator {
     /*----method to calculate simple intrest-----*/
 	public static float calculateSimpleInterst(float principal,float rate,int time) 
@@ -10,7 +9,6 @@ public class AmountCalculator {
 		si=(principal*rate*time)/100;
 		/*----running simple interest-----*/
 		return si;
-
 	}
 	public static void main(String[] args) {
 		/*----Creating object of Scanner class---*/
@@ -32,5 +30,4 @@ public class AmountCalculator {
 		System.out.println("--------------------------------------------------------");
 		System.out.println("Amount to be paid after changing simple interst "+amount);
 	}
-
 }
