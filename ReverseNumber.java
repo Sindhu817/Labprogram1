@@ -30,12 +30,8 @@ public class ReverseNumber
 			n=n/10;
 			 System.out.println("Remaining number: " + n);
 		}
-			System.out.println("The revrse number  is : " +a);
-		
-		
-		
+			System.out.println("The revrse number  is : " +a);	
 	}
-
 }
 
 
