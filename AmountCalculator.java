@@ -31,3 +31,4 @@ public class AmountCalculator {
 		System.out.println("Amount to be paid after changing simple interst "+amount);
 	}
 }
+
